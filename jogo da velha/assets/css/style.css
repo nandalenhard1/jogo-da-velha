@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(255, 223, 184);
+}
+
+#mostrador{
+    margin: auto;
+    margin-top: 40px;
+    width: 252px;
+    height: 80px;
+}
+
+p{
+    float: left;
+    margin-right: 10px;
+    color:rgb(209, 166, 250);
+    font-weight: bold;
+}
+
+.espaco{
+    border: 2px solid rgb(209, 166, 250);;
+    width: 80px;
+    height: 60px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.tabuleiro{
+    margin: auto;
+    width: 252px;
+    height: 252px;
+}
